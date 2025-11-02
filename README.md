@@ -1,14 +1,15 @@
-# cl-dop-setupgit
-🌐 Simple HTML Web App.
+# 🌐 Simple HTML Web App
 
-This is a basic sample web application created using plain HTML.
+This is a basic sample web application created using plain HTML.  
+It serves as a starting point for learning GitHub project setup and basic web development.
 
-It serves as a starting point for web development or GitHub project setup.
+## 📁 Project Structure
+- `index.html` → Main webpage  
+- `README.md` → Project description and instructions
 
-📁 Project Structure
+## 🚀 How to View the Project
+Simply open `index.html` in any web browser.
 
-🚀 How to View the Project
+---
 
-Option 1: Open Directly
-Download or clone the repository:
-git clone https://github.com/<Febinfj>/<cl-dop-setupgit>.git
+👨‍💻 **Created by:** Febin Jacob
