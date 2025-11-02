@@ -1,6 +1,8 @@
 # cl-dop-setupgit
-🌐 Simple HTML Web App
+🌐 Simple HTML Web App.
+
 This is a basic sample web application created using plain HTML.
+
 It serves as a starting point for web development or GitHub project setup.
 
 📁 Project Structure
